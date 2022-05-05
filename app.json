@@ -12,23 +12,28 @@
         "url",
         "uploader"
     ],
-    "repository" : "https://github.com/Badsha010/URL_Uploader_Bot",
+    "repository" : "https://github.com/Ravi12ndu/URL_Uploader_Bot",
     "success_url" : "https://t.me/URL_UploaderAJ_Bot",
     "env" : {
         "BOT_TOKEN" : {
             "description" : "Get From https://t.me/BotFather"
+"value": ""
         },
         "API_ID" : {
             "description" : "Get From https://my.telegram.org"
+"value": ""
         },
         "API_HASH" : {
             "description" : "Get From https://my.telegram.org"
+"value": ""
         },
         "MONGO_STR" : {
             "description" : "Get from MongoDB Atlas."
+"value": ""
         },
         "OWNER_ID" : {
             "description" : "Your(owner's) telegram id"
+"value": ""
         }
     },
     "stack" : "heroku-20",
